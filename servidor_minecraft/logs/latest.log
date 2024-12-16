@@ -64,3 +64,10 @@ java.io.FileNotFoundException: whitelist.json (No such file or directory)
 [23:28:26] [Server thread/INFO]: Preparing spawn area: 70%
 [23:28:27] [Server thread/INFO]: Preparing spawn area: 93%
 [23:28:27] [Server thread/INFO]: Done (6.857s)! For help, type "help" or "?"
+[23:39:14] [Server thread/INFO]: Stopping the server
+[23:39:14] [Server thread/INFO]: Stopping server
+[23:39:14] [Server thread/INFO]: Saving players
+[23:39:14] [Server thread/INFO]: Saving worlds
+[23:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:39:14] [Server thread/INFO]: Saving chunks for level 'world'/The End
